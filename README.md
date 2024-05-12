@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm <a href="https://github.com/prijal-bista" target="blank">
 Prijal Bista</a></h1>
-<h3 align="center">Computer Engineer working currently building softwares</h3>
+<h3 align="center">Computer Engineer, currently building softwares</h3>
 
 
 <a target="_blank" align="center">
